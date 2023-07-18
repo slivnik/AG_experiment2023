@@ -9,7 +9,7 @@ The replicated experiment consisted of
 - the [test](https://github.com/slivnik/AG_experiment2023/blob/main/AG%20Comprehension%20Test4.pdf) containing 7 tasks and
 - the [background and feedback questionnaires](https://github.com/slivnik/AG_experiment2023/blob/main/AG%20Comprehension%20replication%20background%20%26%20feedback%20questionnaire.pdf).
 
-The results from the replicated study have been compared to the results (on the second test (Group I and Group II) from the original study. Between-subjects design and the relation between studies is depicted in the following table:
+The results from the replicated study have been compared to the results of the second test (Group I and Group II) in the original study. Between-subjects design and the relation between studies is depicted in the following table:
 
 ![Design of original and replicated experiment](https://github.com/slivnik/AG_experiment2023/blob/main/replication_table.jpg)
 
