@@ -23,7 +23,7 @@ The results from the replicated study have been compared to the results of the s
         <tr>
             <td></td>
             <td>Original experiment</td>
-            <td>Repicated experiment</td>
+            <td>Replicated experiment</td>
             <td></td>
         </tr>
 		<tr>
