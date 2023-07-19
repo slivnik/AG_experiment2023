@@ -34,7 +34,7 @@ The results from the replicated study have been compared to the results of the s
         </tr>
 		<tr>
             <td rowspan=4>Test execution 1</td>
-            <td><a href="https://github.com/slivnik/AG_experiement2022/blob/main/AG%20Comprehension%20background%20questionnaire.pdf">Background</a></td>
+            <td><a href="https://github.com/slivnik/AG_experiement2022/blob/main/AG%20Comprehension%20background%20questionnaire.pdf">Background survey</a></td>
             <td align="center">/</td>
             <td align="right">5 min</td>
         </tr>
@@ -65,8 +65,8 @@ The results from the replicated study have been compared to the results of the s
             <td align="right">75 min</td>
         </tr>
 		<tr>
-            <td><a href="https://github.com/slivnik/AG_experiement2022/blob/main/AG%20Comprehension%20feedback%20questionnaire%20test2.pdf">Feedback</a></td>
-            <td><a href="https://github.com/slivnik/AG_experiment2023/blob/main/AG%20Comprehension%20replication%20background%20%26%20feedback%20questionnaire.pdf">Background & Feedback</a></td>
+            <td><a href="https://github.com/slivnik/AG_experiement2022/blob/main/AG%20Comprehension%20feedback%20questionnaire%20test2.pdf">Feedback</a><br><nosp><br></td>
+            <td><a href="https://github.com/slivnik/AG_experiment2023/blob/main/AG%20Comprehension%20replication%20background%20%26%20feedback%20questionnaire.pdf">Background survey<br>& Feedback</a></td>
             <td align="right">5 min</td>
         </tr>
         </tbody>
