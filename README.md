@@ -61,7 +61,7 @@ The results from the replicated study have been compared to the results of the s
         </tr>
 		<tr>
             <td>Attribute Grammar<br> questionnaire<br> (<a href="https://github.com/slivnik/AG_experiement2022/blob/main/AG%20Comprehension%20Test2%20Group%20I%20(FERI).pdf">Group I</a> and <a href="https://github.com/slivnik/AG_experiement2022/blob/main/AG%20Comprehension%20Test2%20Group%20II%20(FRI).pdf">Group II</a>) </td>
-            <td><a href="https://github.com/slivnik/AG_experiment2023/blob/main/AG%20Comprehension%20Test4.pdf">Attribute Grammar<br> questionnaire</a></td>
+            <td><a href="https://github.com/slivnik/AG_experiment2023/blob/main/AG%20Comprehension%20Test4.pdf">Attribute Grammar<br> questionnaire</a><br><nbsp><br></td>
             <td align="right">75 min</td>
         </tr>
 		<tr>
